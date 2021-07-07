@@ -1,3 +1,3 @@
 ![profile](profile.jpg)
 
-### Hi there
+### Hi there, I'm Thomas Benjamin
