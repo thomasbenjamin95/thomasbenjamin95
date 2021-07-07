@@ -7,5 +7,4 @@
 -- Some of the books that gave me insights are: [Clean Code](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), [Limitless](https://www.limitlessbook.com/), [Emotional Intelligence](https://www.amazon.ca/Emotional-Intelligence-10th-Anniversary-Matter/dp/055338371X)
 
 ### Connect me through:
-[<img align="left" width="22px" src="">][LinkedIn](linkedin.png)
-[]
+[<img align="left" width="22px" src="linkedin.png">][LinkedIn]
