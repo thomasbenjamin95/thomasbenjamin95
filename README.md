@@ -13,4 +13,12 @@
 
 ### Languages and Tools:
 
-<img src="https://github.com/thomasbenjamin95/privateDocRepo/blob/main/html5.svg" alt="html5" width="40" height="40"/> <img src="https://github.com/thomasbenjamin95/privateDocRepo/blob/main/css3.svg" alt="css3" width="40" height="40"/> <img src="https://github.com/thomasbenjamin95/privateDocRepo/blob/main/java-script.svg" alt="java-script" width="40" height="40"/> <img src="https://github.com/thomasbenjamin95/privateDocRepo/blob/main/nodejs.svg" alt="nodejs" width="40" height="40"/> <img src="https://github.com/thomasbenjamin95/privateDocRepo/blob/main/python.svg" alt="python" width="40" height="40"/> 
+<img src="https://github.com/thomasbenjamin95/privateDocRepo/blob/main/html5.svg" alt="html5" width="40" height="40"/> <img src="https://github.com/thomasbenjamin95/privateDocRepo/blob/main/css3.svg" alt="css3" width="40" height="40"/> <img src="https://github.com/thomasbenjamin95/privateDocRepo/blob/main/java-script.svg" alt="java-script" width="40" height="40"/> <img src="https://github.com/thomasbenjamin95/privateDocRepo/blob/main/nodejs.svg" alt="nodejs" width="40" height="40"/> <img src="https://github.com/thomasbenjamin95/privateDocRepo/blob/main/python.svg" alt="python" width="40" height="40"/>
+
+### Gadgets
+-- 13 inch M1 Macbook
+-- 27 inch Dell 2K Monitor
+-- Steel Series Apex Pro Keyboard
+-- Mx Master Wireless Mouse
+-- ToDo List Book
+-- Sony XM4 Headphones
